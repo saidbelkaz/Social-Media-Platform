@@ -37,7 +37,6 @@ session_start();
     </section>
 </div>
     
-<script src="javascript/pass-show-hide.js"></script>
 <script src="javascript/login.js"></script>
 
 </body>

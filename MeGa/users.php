@@ -107,22 +107,7 @@ if($sql1->rowCount() > 0){
                 </nav>
                 <section class="chat">
                         <article class="txtMsgs">
-                            <p class="you">hello</p>
-                            <p >hello</p>
-                            <p class="you">hello</p>
-                            <p class="you">hello</p>
-                            <p class="you">hello</p>
-                            <p class="you">hello</p>
-                            <p class="">hello</p>
-                            <p class="you">hello</p>
-                            <p class="you">hello</p>
-                            <p class="">hello</p>
-                            <p class="you">hello</p>
-                            <p class="you">hello</p>
-                            <p class="you">hello</p>
-                            <p class="">hello</p>
-                            <p class="">hello</p>
-                            <p class="you">hello</p>
+                        
                             <div class="text">No messages are available. Once you send message they will appear here.</div>
                         </article>
                         <form action="#" method="post" id="chatForm">
